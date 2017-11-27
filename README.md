@@ -1,2 +1,2 @@
 # PythonTools
-Helper scripts for basics tasks
+Helper scripts for basics tasks (files, image processing, ...)
